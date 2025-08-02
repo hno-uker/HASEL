@@ -95,8 +95,3 @@ In this example, `data` and `multiplier` parameters, the return type, and the `r
 2. **Black Formatting**: Use Black for consistent formatting, with "Format on Save" enabled.
 3. **Documentation**: Write docstrings in ReStructuredText format.
 4. **Type Hinting**: Type hint all variables and functions to ensure explicit, readable code.
-
-Following these guidelines will help keep our codebase clean, consistent, and maintainable. Happy coding!
-```
-
-This is ready to be pasted into a markdown file. Let me know if you need further customization!
