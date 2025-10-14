@@ -78,7 +78,7 @@ def classify_points(cotracker_points: np.array, video: np.array):
 
     # Use 2-layered CNN to classify points
     prediction = model(normalized_crops[:, None, :, :])
-    classifications = (torch.sigmoid(prediction) > 0.5) * 1
+    classifications = (torch.sigmoid(prediction) > 0.3) * 1
 
     # Return per point classes in the same format as points over time
     return classifications, crops
