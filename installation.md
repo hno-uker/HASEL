@@ -1,6 +1,6 @@
 Mit Github Desktop (o.ä) Hazel clonen unter
 C:\Repositories\HASEL
-quelle: https://github.com/Henningson/HASEL
+quelle: https://github.com/hno-uker/HASEL
 das selbe für cotracker (benötigt von VFLabel)
 C:\Repositories\HASEL
 quelle: https://github.com/facebookresearch/co-tracker
