@@ -28,4 +28,7 @@ https://huggingface.co/facebook/cotracker3/resolve/main/scaled_offline.pth
 und abspeichern unter
 C:\Repositories\HASEL\assets\models
 
+HASEL ausführen:
+```bash
 python VFLabel\main.py
+```
